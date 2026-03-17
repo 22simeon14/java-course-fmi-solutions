@@ -46,6 +46,16 @@ Each lab directory contains:
 
 ---
 
+## Labs
+
+| Lab | Topic |
+|-----|------|
+| Lab 01 | Introduction to Java |
+| Lab 02 | Object-Oriented Programming I |
+| Lab 03 | Object-Oriented Programming II |
+| Lab 04 | Collections and Clean Code |
+| Lab 05 | Generics |
+
 ## Technologies Used
 
 - Java
