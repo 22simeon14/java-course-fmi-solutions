@@ -1,0 +1,24 @@
+# Compiled Java files
+*.class
+
+# Logs
+*.log
+
+# Build directories
+target/
+build/
+out/
+
+# Maven
+.mvn/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
