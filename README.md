@@ -26,6 +26,7 @@ The course explores a variety of Java and backend-related concepts including:
 
 ## Repository Structure
 
+'''
 java-course-fmi-solutions
 │
 ├── labs
@@ -35,7 +36,7 @@ java-course-fmi-solutions
 │  
 │
 └── homeworks
-
+'''
 
 Each lab directory contains:
 
