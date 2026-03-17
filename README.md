@@ -40,7 +40,7 @@ java-course-fmi-solutions
 
 Each lab directory contains:
 
-- source code located in `src/main/java`
+- source code located in `src`
 - package structure following Java conventions
 - a README describing the specific task
 
