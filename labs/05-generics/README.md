@@ -23,7 +23,7 @@ The goal is to improve code reusability and eliminate the need for type casting.
 ## Project Structure
 ```
 src
-└── bg.sofia.uni.fmi.mjt.eventbus
+└── bg
     └── sofia
         └── uni
             └── fmi

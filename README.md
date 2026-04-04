@@ -30,9 +30,9 @@ The course explores a variety of Java and backend-related concepts including:
 java-course-fmi-solutions
 │
 ├── labs
-│ ├── lab-01-intro-to-java
-│ ├── lab-02-oop-in-java-i
-│ ...
+│   ├── lab-01-intro-to-java
+│   ├── lab-02-oop-in-java-i
+│   ...
 │  
 │
 └── homeworks
